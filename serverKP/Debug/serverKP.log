@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(19,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(26,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(159,1): warning C4244:  +=: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(159,1): warning C4244:         with
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(159,1): warning C4244:         [
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(159,1): warning C4244:             _Ty=int
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(159,1): warning C4244:         ]
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(163,1): warning C4244:  +=: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(163,1): warning C4244:         with
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(163,1): warning C4244:         [
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(163,1): warning C4244:             _Ty=int
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(163,1): warning C4244:         ]
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(223,8): warning C4101:  answer_count: неиспользованная локальная переменная
+C:\Users\алина\Desktop\курсовая\КП\serverKP\Source.cpp(305,8): warning C4101:  answer_count: неиспользованная локальная переменная
+  serverKP.vcxproj -> C:\Users\алина\Desktop\курсовая\КП\Debug\serverKP.exe

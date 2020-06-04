@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\clientKP\Source.cpp(617,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\clientKP\Source.cpp(629,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\clientKP\Source.cpp(735,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\clientKP\Source.cpp(738,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  clientKP.vcxproj -> C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\x64\Debug\clientKP.exe

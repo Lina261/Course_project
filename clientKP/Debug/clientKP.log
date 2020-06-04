@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(161,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(747,38): warning C4018:  >: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(770,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(852,52): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(885,51): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(907,51): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(929,51): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\алина\Desktop\курсовая\КП\clientKP\Source.cpp(951,19): warning C4018:  >=: несоответствие типов со знаком и без знака
+  clientKP.vcxproj -> C:\Users\алина\Desktop\курсовая\КП\Debug\clientKP.exe

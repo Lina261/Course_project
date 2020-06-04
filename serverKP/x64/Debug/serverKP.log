@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\serverKP\Source.cpp(51,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\serverKP\Source.cpp(69,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\serverKP\Source.cpp(159,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\serverKP\Source.cpp(163,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\serverKP\Source.cpp(223,8): warning C4101: 'answer_count': unreferenced local variable
+C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\serverKP\Source.cpp(305,8): warning C4101: 'answer_count': unreferenced local variable
+  serverKP.vcxproj -> C:\Users\nikef\Desktop\drive-download-20200513T185447Z-001\x64\Debug\serverKP.exe
